@@ -1,2 +1,2 @@
 import os
-print "new python file in detached head"
+print "Fixed detached head, but now doing a git checkout main without commit to see what happens."
