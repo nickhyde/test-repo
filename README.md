@@ -4,3 +4,4 @@ And now we're going to create a conflict because the upstream file has been chan
 Working with "detached HEAD" and did a commit.
 new branch
 was new
+adding new stuf
